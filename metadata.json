@@ -1,0 +1,8 @@
+{
+  "name": "Cakey Bakey | Custom cakes",
+  "description": "Premium handcrafted custom cakes in Hridaypur, Kolkata. 5.0 Google rated bakery for birthdays, weddings, anniversaries, and custom celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
